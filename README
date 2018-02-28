@@ -1,0 +1,6 @@
+This code is using third party libraries. 
+- OpenCV contribute library
+- SerialPort, Manash Kumar(MIT)
+
+Install these libraries and you should be good to go. 
+
